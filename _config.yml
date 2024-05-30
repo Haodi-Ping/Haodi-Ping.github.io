@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pinghaodi.jpg"#images/pinghaodi.jpg
   name             : "Haodi PING (平皓弟)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Beijing, China"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
