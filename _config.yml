@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pinghaodi_rec.png" #profile
+  avatar           : "pinghaodi_sq.png" #profile
   name             : "Haodi PING (平皓弟)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
