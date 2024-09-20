@@ -10,22 +10,26 @@ I am currently an Assistant Professor at Beijing University of Technology (BJUT)
 
 Email: haodi.ping AT bjut DOT edu DOT cn
 
+Teaching
+======
+Artificial Intelligence (Undergraduate)
+
 Publications
 ======
 
-> `CCF-A类` [Understanding Hidden Knowledge in Generic Graphs](https://ieeexplore.ieee.org/abstract/document/10440589/).<br>
+> `CCF-A` [Understanding Hidden Knowledge in Generic Graphs](https://ieeexplore.ieee.org/abstract/document/10440589/).<br>
 **Haodi Ping**, Yongcai Wang, Yu Zhang, Deying Li, Lihua Xie.<br>
 *IEEE/ACM Transactions on Networking (TON)*, 2024.
 
-> `CCF-A类` [Understanding node localizability in barycentric linear localization](https://ieeexplore.ieee.org/abstract/document/9941502).<br>
+> `CCF-A` [Understanding node localizability in barycentric linear localization](https://ieeexplore.ieee.org/abstract/document/9941502).<br>
 **Haodi Ping**, Yongcai Wang, Deying Li, Wenping Chen.<br>
 *IEEE/ACM Transactions on Networking (TON)*, 2023.
 
-> `CCF-A类` [Flipping free conditions and their application in sparse network localization](https://ieeexplore.ieee.org/abstract/document/9165000).<br>
+> `CCF-A` [Flipping free conditions and their application in sparse network localization](https://ieeexplore.ieee.org/abstract/document/9165000).<br>
 **Haodi Ping**, Yongcai Wang, Deying Li, Tianyuan Sun.<br>
 *IEEE Transactions on Mobile Computing (TMC)*, 2022.
   
-> `CCF-B类` [On node localizability identification in barycentric linear localization](https://dl.acm.org/doi/abs/10.1145/3547143).
+> `CCF-B` [On node localizability identification in barycentric linear localization](https://dl.acm.org/doi/abs/10.1145/3547143).
 <br>**Haodi Ping**, Yongcai Wang, Xingfa Shen, Deying Li, Wenping Chen.
 <br>*ACM Transactions on Sensor Networks (TOSN)*, 2022.
   
@@ -49,11 +53,11 @@ Publications
 <br>**Haodi Ping**, Zhangbing Zhou, Taj Rahman, Yucong Duan
 <br>*Annual Conference of the IEEE Industrial Electronics Society*, 2017.
 
-> `CCF-B类` [InferLoc: hypothesis-based joint edge Inference and localization in sparse sensor networks]()
+> `CCF-B` [InferLoc: hypothesis-based joint edge Inference and localization in sparse sensor networks]()
 <br>Xuewei Bai, Yongcai Wang, **Haodi Ping**, Xiaojia Xu, Deying Li, Wang, Shuo
 <br>*ACM Transactions on Sensor Networks (TOSN)*, 2023.
 
-> `CCF-B类` [GPART: partitioning maximal redundant rigid and maximal global rigid components in generic distance graphs]()
+> `CCF-B` [GPART: partitioning maximal redundant rigid and maximal global rigid components in generic distance graphs]()
 <br>Yu Zhang, Qinhan Wei, Yongcai Wang, **Haodi Ping**, Deying Li. 2023.
 <br>*ACM Transactions on Sensor Networks (TOSN)*, 2023.
 
