@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BIO"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,29 +13,29 @@ Email: haodi.ping AT bjut DOT edu DOT cn
 Publications
 ======
 
-> [Understanding Hidden Knowledge in Generic Graphs](https://ieeexplore.ieee.org/abstract/document/10440589/).
+> `CCF-A类` [Understanding Hidden Knowledge in Generic Graphs](https://ieeexplore.ieee.org/abstract/document/10440589/).
 
   **Haodi Ping**, Yongcai Wang, Yu Zhang, Deying Li, Lihua Xie.
 
-  `CCF-A类` *IEEE/ACM Transactions on Networking (TON)*, 2024.
+  *IEEE/ACM Transactions on Networking (TON)*, 2024.
 
-> [Understanding node localizability in barycentric linear localization](https://ieeexplore.ieee.org/abstract/document/9941502).
+> `CCF-A类` [Understanding node localizability in barycentric linear localization](https://ieeexplore.ieee.org/abstract/document/9941502).
 
   **Haodi Ping**, Yongcai Wang, Deying Li, Wenping Chen. 
   
-  `CCF-A类` *IEEE/ACM Transactions on Networking (TON)*, 2023.
+  *IEEE/ACM Transactions on Networking (TON)*, 2023.
   
-> [Flipping free conditions and their application in sparse network localization](https://ieeexplore.ieee.org/abstract/document/9165000).
+> `CCF-A类` [Flipping free conditions and their application in sparse network localization](https://ieeexplore.ieee.org/abstract/document/9165000).
 
   **Haodi Ping**, Yongcai Wang, Deying Li, Tianyuan Sun.
   
-  `CCF-A类` *IEEE Transactions on Mobile Computing (TMC)*, 2022.
+  *IEEE Transactions on Mobile Computing (TMC)*, 2022.
   
->  [On node localizability identification in barycentric linear localization](https://dl.acm.org/doi/abs/10.1145/3547143).
+> `CCF-B类` [On node localizability identification in barycentric linear localization](https://dl.acm.org/doi/abs/10.1145/3547143).
 
   **Haodi Ping**, Yongcai Wang, Xingfa Shen, Deying Li, Wenping Chen.
   
-  `CCF-B类` *ACM Transactions on Sensor Networks (TOSN)*, 2022.
+  *ACM Transactions on Sensor Networks (TOSN)*, 2022.
   
 > [HGO: hierarchical graph optimization for accurate, efficient, and robust network localization](https://ieeexplore.ieee.org/abstract/document/9209620).
 
@@ -67,23 +67,23 @@ Publications
   
   *Annual Conference of the IEEE Industrial Electronics Society*, 2017.
 
-> [InferLoc: hypothesis-based joint edge Inference and localization in sparse sensor networks]()
+> `CCF-B类` [InferLoc: hypothesis-based joint edge Inference and localization in sparse sensor networks]()
 
   Xuewei Bai, Yongcai Wang, **Haodi Ping**, Xiaojia Xu, Deying Li, Wang, Shuo
 
-  `CCF-B类` *ACM Transactions on Sensor Networks (TOSN)*, 2023.
+  *ACM Transactions on Sensor Networks (TOSN)*, 2023.
 
-> [GPART: partitioning maximal redundant rigid and maximal global rigid components in generic distance graphs]()
+> `CCF-B类` [GPART: partitioning maximal redundant rigid and maximal global rigid components in generic distance graphs]()
 
   Yu Zhang, Qinhan Wei, Yongcai Wang, **Haodi Ping**, Deying Li. 2023.
 
-  `CCF-B类` *ACM Transactions on Sensor Networks (TOSN)*, 2023.
+  *ACM Transactions on Sensor Networks (TOSN)*, 2023.
 
 
-> [Accurate boundary detection and refinement for continuous objects in IoT sensing networks]()
+> `JCR Q1` [Accurate boundary detection and refinement for continuous objects in IoT sensing networks]()
 
   Zhangbing Zhou, Yaqiang Zhang, Xuefang Yi, Chao Chen, **Haodi Ping**.
  
- `JCR Q1` *IEEE Communications Magazine*, 2019.
+  *IEEE Communications Magazine*, 2019.
   
 
