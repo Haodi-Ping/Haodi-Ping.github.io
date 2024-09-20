@@ -13,77 +13,53 @@ Email: haodi.ping AT bjut DOT edu DOT cn
 Publications
 ======
 
-> `CCF-A类` [Understanding Hidden Knowledge in Generic Graphs](https://ieeexplore.ieee.org/abstract/document/10440589/).
+> `CCF-A类` [Understanding Hidden Knowledge in Generic Graphs](https://ieeexplore.ieee.org/abstract/document/10440589/).<br>
+**Haodi Ping**, Yongcai Wang, Yu Zhang, Deying Li, Lihua Xie.<br>
+*IEEE/ACM Transactions on Networking (TON)*, 2024.
 
-  **Haodi Ping**, Yongcai Wang, Yu Zhang, Deying Li, Lihua Xie.
-
-  *IEEE/ACM Transactions on Networking (TON)*, 2024.
-
-> `CCF-A类` [Understanding node localizability in barycentric linear localization](https://ieeexplore.ieee.org/abstract/document/9941502).
-
-  **Haodi Ping**, Yongcai Wang, Deying Li, Wenping Chen. 
+> `CCF-A类` [Understanding node localizability in barycentric linear localization](https://ieeexplore.ieee.org/abstract/document/9941502).<br>
+**Haodi Ping**, Yongcai Wang, Deying Li, Wenping Chen.<br>
+*IEEE/ACM Transactions on Networking (TON)*, 2023.
   
-  *IEEE/ACM Transactions on Networking (TON)*, 2023.
+> `CCF-A类` [Flipping free conditions and their application in sparse network localization](https://ieeexplore.ieee.org/abstract/document/9165000).<br>
+**Haodi Ping**, Yongcai Wang, Deying Li, Tianyuan Sun.<br>  
+*IEEE Transactions on Mobile Computing (TMC)*, 2022.
   
-> `CCF-A类` [Flipping free conditions and their application in sparse network localization](https://ieeexplore.ieee.org/abstract/document/9165000).
-
-  **Haodi Ping**, Yongcai Wang, Deying Li, Tianyuan Sun.
-  
-  *IEEE Transactions on Mobile Computing (TMC)*, 2022.
-  
-> `CCF-B类` [On node localizability identification in barycentric linear localization](https://dl.acm.org/doi/abs/10.1145/3547143).
-
-  **Haodi Ping**, Yongcai Wang, Xingfa Shen, Deying Li, Wenping Chen.
-  
+> `CCF-B类` [On node localizability identification in barycentric linear localization](https://dl.acm.org/doi/abs/10.1145/3547143).<br>
+  **Haodi Ping**, Yongcai Wang, Xingfa Shen, Deying Li, Wenping Chen.<br>  
   *ACM Transactions on Sensor Networks (TOSN)*, 2022.
   
-> [HGO: hierarchical graph optimization for accurate, efficient, and robust network localization](https://ieeexplore.ieee.org/abstract/document/9209620).
-
-  **Haodi Ping**, Yongcai Wang, Deying Li. 
-  
+> [HGO: hierarchical graph optimization for accurate, efficient, and robust network localization](https://ieeexplore.ieee.org/abstract/document/9209620).<br>
+  **Haodi Ping**, Yongcai Wang, Deying Li. <br>  
   *29th International Conference on Computer Communications and Networks (ICCCN)*, 2020.
   
-> [Accurate and energy-efficient boundary detection of continuous objects in duty-cycled wireless sensor networks](https://link.springer.com/article/10.1007/s00779-018-1119-4).
-
-  **Haodi Ping**, Zhangbing Zhou, Zhensheng Shi, Taj Rahman. 
-  
+> [Accurate and energy-efficient boundary detection of continuous objects in duty-cycled wireless sensor networks](https://link.springer.com/article/10.1007/s00779-018-1119-4).<br>
+  **Haodi Ping**, Zhangbing Zhou, Zhensheng Shi, Taj Rahman. <br>  
   *Personal and Ubiquitous Computing (PUC)*, 2018.
   
-> [DCG: an efficient distributed conjugate gradient algorithm for solving linear equations in multi-agent networks](https://www.sciencedirect.com/science/article/pii/S2666720723000152).
-
-  **Haodi Ping**, Yongcai Wang, Chengcun Wei, Jin Xi, Taoming Zhang, Yong Gao.
-  
+> [DCG: an efficient distributed conjugate gradient algorithm for solving linear equations in multi-agent networks](https://www.sciencedirect.com/science/article/pii/S2666720723000152).<br>
+  **Haodi Ping**, Yongcai Wang, Chengcun Wei, Jin Xi, Taoming Zhang, Yong Gao.<br>  
   *Results in Control and Optimization*, 2023. 
 
-> [Understanding Data Correlations in Continuous Casting Systems for Autonomous Fixed Weight Cutting]()
-
-   **Haodi Ping**, Yongcai Wang, Haoran Feng.
-
+> [Understanding Data Correlations in Continuous Casting Systems for Autonomous Fixed Weight Cutting]()<br>
+   **Haodi Ping**, Yongcai Wang, Haoran Feng.<br>
    *Proceedings of the International Conference on Advances in Image Processing*, 2019.
 
-> [Localization and tracking of continuous objects boundary area leveraging planarization algorithms in duty-cycled wireless sensor networks]()
-
-  **Haodi Ping**, Zhangbing Zhou, Taj Rahman, Yucong Duan
-  
+> [Localization and tracking of continuous objects boundary area leveraging planarization algorithms in duty-cycled wireless sensor networks]()<br>
+  **Haodi Ping**, Zhangbing Zhou, Taj Rahman, Yucong Duan<br>  
   *Annual Conference of the IEEE Industrial Electronics Society*, 2017.
 
-> `CCF-B类` [InferLoc: hypothesis-based joint edge Inference and localization in sparse sensor networks]()
-
-  Xuewei Bai, Yongcai Wang, **Haodi Ping**, Xiaojia Xu, Deying Li, Wang, Shuo
-
+> `CCF-B类` [InferLoc: hypothesis-based joint edge Inference and localization in sparse sensor networks]()<br>
+  Xuewei Bai, Yongcai Wang, **Haodi Ping**, Xiaojia Xu, Deying Li, Wang, Shuo<br>
   *ACM Transactions on Sensor Networks (TOSN)*, 2023.
 
-> `CCF-B类` [GPART: partitioning maximal redundant rigid and maximal global rigid components in generic distance graphs]()
-
-  Yu Zhang, Qinhan Wei, Yongcai Wang, **Haodi Ping**, Deying Li. 2023.
-
+> `CCF-B类` [GPART: partitioning maximal redundant rigid and maximal global rigid components in generic distance graphs]()<br>
+  Yu Zhang, Qinhan Wei, Yongcai Wang, **Haodi Ping**, Deying Li. 2023.<br>
   *ACM Transactions on Sensor Networks (TOSN)*, 2023.
 
 
-> `JCR Q1` [Accurate boundary detection and refinement for continuous objects in IoT sensing networks]()
-
-  Zhangbing Zhou, Yaqiang Zhang, Xuefang Yi, Chao Chen, **Haodi Ping**.
- 
+> `JCR Q1` [Accurate boundary detection and refinement for continuous objects in IoT sensing networks]()<br>
+  Zhangbing Zhou, Yaqiang Zhang, Xuefang Yi, Chao Chen, **Haodi Ping**.<br> 
   *IEEE Communications Magazine*, 2019.
   
 
