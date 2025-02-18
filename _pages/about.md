@@ -28,7 +28,11 @@ Publications
 > `CCF-A` [Flipping free conditions and their application in sparse network localization](https://ieeexplore.ieee.org/abstract/document/9165000).<br>
 **Haodi Ping**, Yongcai Wang, Deying Li, Tianyuan Sun.<br>
 *IEEE Transactions on Mobile Computing (TMC)*, 2022.
-  
+
+> `CCF-A` [SCOPE: Performance Testing for Serverless Computing](https://dl.acm.org/doi/10.1145/3717609).<br>
+Jinfeng Wen, Zhenpeng Chen, Jianshu Zhao, Federica Sarro, **Haodi Ping**, Ying Zhang, Shangguang Wang, Xuanzhe Liu.<br>
+*ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2025.
+
 > `CCF-B` [On node localizability identification in barycentric linear localization](https://dl.acm.org/doi/abs/10.1145/3547143).
 <br>**Haodi Ping**, Yongcai Wang, Xingfa Shen, Deying Li, Wenping Chen.
 <br>*ACM Transactions on Sensor Networks (TOSN)*, 2022.
