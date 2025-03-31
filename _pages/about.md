@@ -9,7 +9,7 @@ redirect_from:
 I am currently an Assistant Professor at Beijing University of Technology (BJUT). I had the great privilege of receiving my PhD from Renmin University of China (RUC) in 2023, under the supervision of [Professor Wang Yongcai](https://yongcaiwang.github.io/), and was fortunate to visit [Professor Lihua Xie](https://dr.ntu.edu.sg/cris/rp/rp00784)’s IoT lab at Nanyang Technological University (NTU), Singapore. My research interests mainly focus on `intelligent networks`, `unmanned swarm localization`, `big graph data mining` and `graph structure computation`. My Google Scholar is: [Haodi Ping](https://scholar.google.com/citations?user=jACI6bcAAAAJ&hl=zh-CN&oi=ao).
 
 Email: haodi.ping AT bjut DOT edu DOT cn
-Phone: 131*6733*2800
+
 Teaching
 ======
 Artificial Intelligence (Undergraduate)
